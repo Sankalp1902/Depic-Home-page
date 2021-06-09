@@ -1,0 +1,136 @@
+#download {
+  background-color: black;
+  color: white;
+}
+a {
+    color: white;
+    transition: all .35s;
+}
+.fa.fa-heart {
+  color: red;
+}
+.btn{
+  background-color: black;
+  border-color: black;
+}
+.navbar-light .navbar-nav .nav-link{
+  color:white;
+}
+
+.btn.active, .btn:active, .btn:focus, .btn:hover {
+  background-color: white;
+  color:black;
+      border-color: #000;
+}
+
+#mainNav.navbar-shrink{
+  background-color: black;
+}
+a.active{
+  color:#999;
+  background-color: black;
+  font-size:20px;
+}
+#mainNav .navbar-nav>li>a{
+  color:#000;
+  background-color: transparent;
+  font-size:18px;
+}
+
+#contact {
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+
+#mainNav .navbar-brand {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#mainNav {
+  height: 10vh;
+  background-color: black;
+}
+
+img, svg {
+  height: 9vh;
+}
+
+header.masthead {
+  background-color: white;
+  background: white;
+  color: black;
+}
+
+.submit-now {
+  margin-top: 20px;
+  font-size: 16px;
+  width: 200px;
+  height: 50px;
+  background-color: #000;
+  border-color: transparent;
+}
+
+.form-control.input {
+  border: 0;
+  background: transparent;
+  border-bottom: 1px solid silver;
+  border-radius: 0px !important;
+}
+
+.getintouch {
+  height: auto;
+  background-image: url("../../assets/img/Get%20In%20touch/GetInTouch.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], textarea {
+  border-radius: 300px !important;
+  border-color:black;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], textarea {
+  border-radius: 300px !important;
+  border-color:black;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #4daade;
+  border-color: #4daade;
+  box-shadow: 0px 10px 15px rgba(157,157,157,0.4);
+}
+
+.modern-form {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.modern-form__hr {
+  border-color: #4daade;
+  border-width: 2px;
+  width: 121px;
+}
+
+.modern-form__form-container {
+  padding-top: 100px;
+}
+
+.modern-form__form-group--padding-r {
+  padding-right: 20px;
+}
+
+.modern-form__form-group--padding-t {
+  padding-top: 50px;
+}
+
+.modern-form__form-control--textarea {
+  height: 95px !important;
+  resize: none;
+}
+
